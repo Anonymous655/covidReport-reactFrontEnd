@@ -9,10 +9,7 @@
 
 API Is Provided By https://www.covid19india.org/
 
-
-
-
-
 <!-- visual overview of the project -->
-/src/preview/p1.png
-/src/preview/p2.png
+![demo image - ](/src/preview/p1.png)
+![demo image - ](/src/preview/p2.png)
+
