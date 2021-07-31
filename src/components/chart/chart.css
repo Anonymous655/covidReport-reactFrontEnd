@@ -1,0 +1,11 @@
+.main-div {
+  border: 2px groove rgb(36, 199, 214);
+  padding: 10px;
+  background-color: rgb(187, 220, 248);
+}
+.heading{
+  font-family: cursive;
+  font-weight: 900;
+  margin: 20px auto;
+  font-size: 35px;
+}

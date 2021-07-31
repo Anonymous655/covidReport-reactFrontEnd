@@ -1,0 +1,44 @@
+.back {
+  background-color: #e2e6ea;
+  border-radius: 10px;
+}
+
+.items {
+  border-radius: 15px;
+}
+
+.heading {
+  font-size: 23px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.value {
+  font-size: 18px;
+  margin-top: 2px;
+  padding: 8px;
+}
+
+.update {
+  background-color: #38363a;
+}
+
+.today-death {
+  background-color: #38363a;
+}
+
+.recovered {
+  background-color: #38363a;
+}
+
+.total-death {
+  background-color: #38363a;
+}
+
+.confirm {
+  background-color: #38363a;
+}
+
+.active-cases {
+  background-color: #38363a;
+}
